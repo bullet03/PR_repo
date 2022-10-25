@@ -1,1 +1,1 @@
-#Welcome to content folder!
+#Different template!
